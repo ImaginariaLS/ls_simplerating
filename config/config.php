@@ -15,4 +15,3 @@ $config['sort_blogs_by_count_user'] = true;
 
 
 return $config;
-?>
